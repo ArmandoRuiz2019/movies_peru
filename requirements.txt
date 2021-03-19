@@ -45,7 +45,7 @@ django-templatetag-sugar==1.0
 django-widget-tweaks==1.4.1
 django-widgets==0.1.16
 django-widgets-improved==1.5.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 entrypoints==0.3
 filelock==3.0.12
 Flask==1.1.2
