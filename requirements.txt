@@ -92,7 +92,7 @@ phonenumberslite==8.12.6
 pickleshare==0.7.5
 pilkit==1.1.13
 Pillow==7.1.2
-pipenv==2020.6.2
+pipenv==2022.1.8
 playsound==1.2.2
 plotly==4.8.1
 prometheus-client==0.8.0
